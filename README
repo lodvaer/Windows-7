@@ -1,0 +1,16 @@
+Windows 7 ... at least it's better than Vista.
+
+System requirements:
+ - VBE2-compatible BIOS
+ - 4 MiB RAM
+ - Floppy-station
+ - Monitor capable of viewing 24bpp in 640x480 mode.
+Or:
+ - A virtual machine giving you the above mentioned resources.
+
+To compile you need:
+ - fasm: flatassembler.net
+
+See attached Makefile for build instructions.
+
+XKCD-reference: http://xkcd.com/528/
